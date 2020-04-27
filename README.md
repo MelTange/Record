@@ -1,2 +1,1 @@
-# linuxgit
-linux git commod
+# linux git commod
