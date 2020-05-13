@@ -1,4 +1,4 @@
-git init 初始化
+git init 初始化<br/>
 git add main.c 将main.c添加到暂存区
 git commit -m ‘版本信息说明’ 将暂存区的文件提交到版本库里面
 git log 查看日志信息
